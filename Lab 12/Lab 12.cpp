@@ -1,5 +1,25 @@
 
 
+// Documentation Section
+
+/*
+File Name : Lab 12
+Author : Hamza Alsayed ALmradny
+Version : V.1
+Purpose : Check whether a triangle is Equilateral, Isosceles or Scalene.
+Date :17/7/2025
+*/
+
+
+
+
+
+
+
+
+
+
+
 #include <iostream>
 using namespace std;
 
